@@ -5,3 +5,13 @@ __pycache__/
 chromedriver_linux64.zip
 .venv
 .idea
+.env
+.tool-versions
+.chrome-profile/
+test.html
+debug_no_comments.png
+debug_page.html
+*.html
+/Instagram-rels_files
+debug_state.json
+comments_*.xlsx
